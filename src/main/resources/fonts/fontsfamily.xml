@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+    <fontFamily name="Arial">
+       <normal><![CDATA[fonts/Arial Black.ttf]]></normal>
+       <bold><![CDATA[fonts/Arial Bold.ttf]]></bold>
+       <italic><![CDATA[fonts/Arial Italic.ttf]]></italic>
+       <boldItalic><![CDATA[fonts/Arial Bold Italic.ttf]]></boldItalic>
+       <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+   <fontFamily name="Georgia">
+       <normal><![CDATA[fonts/Georgia.ttf]]></normal>
+       <bold><![CDATA[fonts/Georgia Bold.ttf]]></bold>
+       <italic><![CDATA[fonts/Georgia Italic.ttf]]></italic>
+       <boldItalic><![CDATA[fonts/Georgia Bold Italic.ttf]]></boldItalic>
+       <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+   <fontFamily name="TimesNewRomanPSMT">
+       <normal><![CDATA[fonts/Times New Roman.ttf]]></normal>
+       <bold><![CDATA[fonts/Times New Roman Bold.ttf]]></bold>
+       <italic><![CDATA[fonts/Times New Roman Italic.ttf]]></italic>
+       <boldItalic><![CDATA[fonts/Times New Roman Bold Italic.ttf]]></boldItalic>
+       <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+       <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+   </fontFamily>
+
+
+
+
+</fontFamilies>

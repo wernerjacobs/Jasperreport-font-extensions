@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+
+    <fontFamily name="Arial">
+        <normal><![CDATA[be.seamless.jasperreports.fonts.arial/Arial Black.ttf]]></normal>
+        <bold><![CDATA[be.seamless.jasperreports.fonts.arial/Arial Bold.ttf]]></bold>
+        <italic><![CDATA[be.seamless.jasperreports.fonts.arial/Arial Italic.ttf]]></italic>
+        <boldItalic><![CDATA[be.seamless.jasperreports.fonts.arial/Arial Bold Italic.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
+
+
+    <fontFamily name="Georgia">
+        <normal><![CDATA[be.seamless.jasperreports.fonts.georgia/Georgia.ttf]]></normal>
+        <bold><![CDATA[be.seamless.jasperreports.fonts.georgia/Georgia Bold.ttf]]></bold>
+        <italic><![CDATA[be.seamless.jasperreports.fonts.Georgia Italic.ttf]]></italic>
+        <boldItalic><![CDATA[be.seamless.jasperreports.fonts.georgia/Georgia Bold Italic.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
+
+
+    <fontFamily name="TimesNewRomanPSMT">
+        <normal><![CDATA[be.seamless.jasperreports.fonts.timesnewroman/Times New Roman.ttf]]></normal>
+        <bold><![CDATA[be.seamless.jasperreports.fonts.timesnewroman/Times New Roman Bold.ttf]]></bold>
+        <italic><![CDATA[be.seamless.jasperreports.fonts.timesnewroman/Times New Roman Italic.ttf]]></italic>
+        <boldItalic>
+            <![CDATA[be.seamless.jasperreports.fonts.timesnewroman/Times New Roman Bold Italic.ttf]]></boldItalic>
+        <pdfEncoding><![CDATA[Identity-H]]></pdfEncoding>
+        <pdfEmbedded><![CDATA[true]]></pdfEmbedded>
+    </fontFamily>
+
+
+</fontFamilies>

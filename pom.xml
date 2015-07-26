@@ -6,8 +6,43 @@
 
     <groupId>be.seamless</groupId>
     <artifactId>jasperreports-font-extensions</artifactId>
-    <version>1.4.2</version>
+	<version>1.4.3</version>
     <packaging>jar</packaging>
+	<build>
+		<sourceDirectory>./</sourceDirectory>
+		<resources>
+			<resource>
+				<directory>./</directory>
+				<includes>
+					<include>**/jasperreports_extension.properties</include>
+					<include>**/fonts.xml</include>
+					<include>**/*.ttf</include>
+				</includes>
+			</resource>
+		</resources>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifestEntries>
+							<Built-By>Seamless NV</Built-By>
+						</manifestEntries>
+						<manifestSections>
+							<manifestSection>
+								<name>be/seamless/jasperreports/fonts/</name>
+								<manifestEntries>
+									<Specification-Title>JasperReports Library Font Extension</Specification-Title>
+									<Specification-Version>${pom.version}</Specification-Version>
 
+								</manifestEntries>
+							</manifestSection>
+						</manifestSections>
+					</archive>
+				</configuration>
+			</plugin>
+		</plugins>
+	</build>
 
 </project>

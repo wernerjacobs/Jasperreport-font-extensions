@@ -2,7 +2,7 @@
 <fontFamilies>
 
     <fontFamily name="Arial">
-        <normal><![CDATA[be/seamless/jasperreports/fonts/arial/Arial Black.ttf]]></normal>
+        <normal><![CDATA[be/seamless/jasperreports/fonts/arial/Arial.ttf]]></normal>
         <bold><![CDATA[be/seamless/jasperreports/fonts/arial/Arial Bold.ttf]]></bold>
         <italic><![CDATA[be/seamless/jasperreports/fonts/arial/Arial Italic.ttf]]></italic>
         <boldItalic><![CDATA[be/seamless/jasperreports/fonts/arial/Arial Bold Italic.ttf]]></boldItalic>
